@@ -1,13 +1,6 @@
 # - File Renamer Bot
 
-<p align="center">
-  <a href="https://github.com/No-OnE-Kn0wS-Me/FileRenameBot/stargazers">
-    <img src="https://img.shields.io/github/stars/No-OnE-Kn0wS-Me/FileRenameBot?style=social">
-
   </a>
-  
-  <a href="https://github.com/No-OnE-Kn0wS-Me/FileRenameBot/fork">
-    <img src="https://img.shields.io/github/forks/No-OnE-Kn0wS-Me/FileRenameBot?label=Fork&style=social">
 
   </a>  
 </p>
@@ -22,7 +15,7 @@
 
 # Deploy  to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rapidotg/FileRenameBot-1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rapidotg/RenamerX)
 
 # Required Strings :-
 
@@ -30,7 +23,7 @@
 
 * -> `UPDATE_CHANNEL`<br> **An Channel Username Which You Want to Use As An ForceSub Channel Put It Without @**
 
-* -> `APP_ID`__And__ `API_HASH`<br>**Get It From [Here](http://www.my.telegram.org) or [@UseTGXBot](http://www.telegram.dog/UseTGXBot)**
+* -> `APP_ID`__And__ `API_HASH`<br>**Get It From [Here](http://www.my.telegram.org)**
 
 ## Credits, and Thanks to Beloved Developers ;
 
